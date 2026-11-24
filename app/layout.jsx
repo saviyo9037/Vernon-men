@@ -1,0 +1,1 @@
+import './style.css'; export const metadata={title:'VÉRON MEN | Modern menswear',description:'Elevated essentials for everyday style.'}; export default function Layout({children}){return <html lang="en"><body>{children}</body></html>}
